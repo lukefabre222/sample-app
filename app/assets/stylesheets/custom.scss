@@ -111,3 +111,30 @@ p {
     color: $state-danger-text;
   }
 }
+
+/*トップページ*/
+#top-main{
+  background-color: rgba(51,153,255,0);
+}
+
+#top-main-title {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#table-user th {
+    vertical-align: middle;
+    white-space: nowrap;
+    text-align: center;
+}
+#top-page{
+  background:url("https://www.pakutaso.com/shared/img/thumb/HIGA62_notepen_TP_V.jpg");
+}
+.label-form{
+  padding-top:10px;
+}
+.login-title{
+  padding-top:40px;
+  font-style: italic;
+  font-weight: bold;
+}
